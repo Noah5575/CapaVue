@@ -1,0 +1,2 @@
+# CapaVue
+Philosophy project
